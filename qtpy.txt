@@ -1,0 +1,1000 @@
+ 1025  sudo ./demo
+ 1026  ./configure
+ 1027  make
+ 1028  sudo make install
+ 1029  sudo make check
+ 1030  cd Desktop
+ 1031  g++ 1.cpp -o demo -lgraph
+ 1032  gedit  /etc/apt/sources.list
+ 1033  sudo gedit  /etc/apt/sources.list
+ 1034  sudo apt-get update
+ 1035  sudo apt-get install libsdl-image1.2 libsdl-image1.2-dev guile-2.0 guile-2.0-dev libsdl1.2debian libart-2.0-dev libaudiofile-dev libesd0-dev libdirectfb-dev libdirectfb-extra libfreetype6-dev libxext-dev x11proto-xext-dev libfreetype6 libaa1 libaa1-dev libslang2-dev libasound2 libasound2-dev
+ 1036  ls
+ 1037  gcc 1.c -o demo -lgraph
+ 1038  ls
+ 1039  sudo ./demo
+ 1040  gcc 1.c -o demo -lgraph
+ 1041  sudo ./demo
+ 1042  gcc 1.c -o demo -lgraph
+ 1043  sudo ./demo
+ 1044  q
+ 1045  gcc 1.c -o demo -lgraph
+ 1046  q
+ 1047  sudo ./demo
+ 1048  gcc 1.c -o demo -lgraph
+ 1049  sudo ./demo
+ 1050  gcc 1.c -o demo -lgraph
+ 1051  sudo ./demo
+ 1052  gcc 1.c -o demo -lgraph
+ 1053  sudo ./demo
+ 1054  h
+ 1055  gcc 1.c -o demo -lgraph
+ 1056  h
+ 1057  sudo ./demo
+ 1058  d
+ 1059  gcc 1.c -o demo -lgraph
+ 1060  sudo ./demo
+ 1061  h
+ 1062  gcc 1.c -o demo -lgraph
+ 1063  sudo ./demo
+ 1064  gcc 1.c -o demo
+ 1065  gcc 1.c -o o
+ 1066  gcc 1.c -o demo -lgraph
+ 1067  gcc 1.c -o demo
+ 1068  sudo ./demo
+ 1069  gcc 1.c -o demo -lgraph
+ 1070  sudo ./demo
+ 1071  k
+ 1072  sudo ./demo
+ 1073  gcc 1.c -o demo -lgraph
+ 1074  sudo ./demo
+ 1075  cd
+ 1076  cd Downlode
+ 1077  cd Downlod
+ 1078  ls
+ 1079  cd Downloads
+ 1080  ls
+ 1081  cd libgraph-1.0.2
+ 1082  sudo cp /usr/local/lib/libgraph.* /usr/lib
+ 1083  cd Desktop
+ 1084  gcc 1.c -o demo -lgraph
+ 1085  sudo ./demo
+ 1086  s
+ 1087  gcc 1.c -o demo -lgraph
+ 1088  gcc 2.c -o demo1 -lgraph
+ 1089  sudo ./demo1
+ 1090  sudo ./demo1l
+ 1091  gcc 2.c -o demo1 -lgraph
+ 1092  sudo ./demo1l
+ 1093  sudo ./demo1
+ 1094  gcc 1.c -o demo -lgraph
+ 1095  sudo ./demo
+ 1096  q
+ 1097  gcc 1.c -o demo -lgraph
+ 1098  sudo ./demo
+ 1099  11
+ 1100  1
+ 1101  gcc 3.c -o demo -lgraph
+ 1102  sudo ./demo
+ 1103  1
+ 1104  gcc 1.c -o demo -lgraph
+ 1105  sudo ./demo
+ 1106  gcc 1.c -o demo -lgraph
+ 1107  sudo ./demo
+ 1108  gcc 1.c -o demo -lgraph
+ 1109  sudo ./demo
+ 1110  gcc 1.c -o demo -lgraph
+ 1111  sudo ./demo
+ 1112  gcc 1.c -o demo -lgraph
+ 1113  sudo ./demo
+ 1114  gcc 1.c -o demo -lgraph
+ 1115  sudo ./demo
+ 1116  gcc 1.c -o demo -lgraph
+ 1117  sudo ./demo
+ 1118  gcc 1.c -o demo -lgraph
+ 1119  sudo ./demo
+ 1120  gcc 1.c -o demo -lgraph
+ 1121  sudo ./demo
+ 1122  gcc 1.c -o demo -lX11 -lgraph
+ 1123  sudo ./demo
+ 1124  gcc 1.c -o demo -lX11 -lgraph
+ 1125  sudo ./demo
+ 1126  d
+ 1127  gcc 1.c -o demo -lX11 -lgraph
+ 1128  sudo ./demo
+ 1129  gcc 1.c -o demo -lX11 -lgraph
+ 1130  sudo ./demo
+ 1131  \
+ 1132  sudo ./demo
+ 1133  ls
+ 1134  gcc 1.c -o demo  -lgraph
+ 1135  sudo ./demo
+ 1136  d
+ 1137  gcc 1.c -o demo -lX11 -lgraph
+ 1138  sudo ./demo
+ 1139  d
+ 1140  u
+ 1141  g++ 1.cpp - lgraph
+ 1142  g++ 1.cpp -lgraph
+ 1143  sudo ./demo
+ 1144  gcc 1.c -o demo -lX11 -lgraph
+ 1145  sudo ./demo
+ 1146  gcc 1.c -o demo -lX11 -lgraph
+ 1147  gcc 1.c -o demo  -lgraph
+ 1148  sudo ./demo
+ 1149  u
+ 1150  sudo add-apt-repository universe
+ 1151  sudo apt-get update
+ 1152  sudo sed -i '2d' /etc/apt/sources.list
+ 1153  sudo apt-get update
+ 1154  sudo nano /etc/apt/sources.list.d/google.list
+ 1155  make generate-plist
+ 1156  ls
+ 1157  make all
+ 1158  make 
+ 1159  ls |grep google
+ 1160  sudo gedit google-chrome.list
+ 1161  sudo gedit google-chrome.list.save
+ 1162  sudo gedit google.list
+ 1163  sudo gedit google.list.save
+ 1164  ls |grep google
+ 1165  sudo gedit google.list.save
+ 1166  sudo gedit google-webdesigner.list
+ 1167  sudo gedit google-webdesigner.list.save
+ 1168  cd
+ 1169  sudo apt-get update
+ 1170  gedit /etc/apt/sources.list.d/google-chrome
+ 1171  sudo gedit /etc/apt/sources.list.d/google-chrome
+ 1172  sudo gedit /etc/apt/sources.list.d/google-chrome.list
+ 1173  cd /etc/apt/sources.list.d
+ 1174  ls
+ 1175  sudo rm google-chrome.list
+ 1176  sudo google-chrome.list.save
+ 1177  sudo rm google-chrome.list.save
+ 1178  sudo rm google.list
+ 1179  sudo rm google.list.save
+ 1180  sudo rm google-webdesigner.list
+ 1181  sudo rm google-webdesigner.list.save
+ 1182  cd
+ 1183  sudo apt-get update
+ 1184  cd Downlods
+ 1185  ls
+ 1186  cd Downloads
+ 1187  ls
+ 1188  sudo dpkg -i vgalib-bin_1.4.3-33_i386.deb
+ 1189  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1190  sudo apt-get -f install
+ 1191  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1192  sudo dpkg --configure -a
+ 1193  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1194  ls
+ 1195  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1196  sudo -s
+ 1197  cd /var/cache/debconf
+ 1198  # rm *.dat
+ 1199  apt-get update && apt-get upgrade
+ 1200  cd
+ 1201  ls
+ 1202  cd Downloads
+ 1203  cd
+ 1204  ls
+ 1205  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1206  sudo apt-get clean
+ 1207  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1208  sudo apt-get install --reinstall software-properties-common
+ 1209  sudo apt-get clean
+ 1210  sudo apt-get install --reinstall software-properties-common
+ 1211  sudo gedit  /etc/apt/sources.list.d/google.list
+ 1212  sudo apt-get update
+ 1213  sudo gedit  /etc/apt/sources.list.d/google.list
+ 1214  sudo apt-get update
+ 1215  sudo gedit /etc/apt/sources.list.d/google.list
+ 1216  sudo apt-get update
+ 1217  sudo chmod 777 1.c
+ 1218  gcc 1.c -o demo  -lgraph
+ 1219  sudo chmod 777 demo
+ 1220  sudo ./demo
+ 1221  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1222  sudo rm /etc/apt/sources.list.d/*.disable
+ 1223  cd /etc/apt
+ 1224  grep -rw karmic *
+ 1225  cd
+ 1226  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1227  sudo rm /etc/apt/sources.list.d/*.disable
+ 1228  sudo sh -c "echo 'Dir::Ignore-Files-Silently:: \"(.save|.distupgrade)$\";' > /etc/apt/apt.conf.d/99ignoresave"
+ 1229  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1230  cd Desktop
+ 1231  gcc 1.c -o demo  -lgraph
+ 1232  sudo ./demo
+ 1233  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1234  sudo rm /etc/apt/sources.list.d/yandex-browser*
+ 1235  cd  /etc/apt/sources.list.d
+ 1236  ls
+ 1237  sudo apt-config dump | grep Dir::Ignore-Files-Silently::
+ 1238  ls
+ 1239  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1240  ls google.list.save.1
+ 1241  sudo rm  google.list.save.1
+ 1242  ls google.list.save.1
+ 1243  cd
+ 1244  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1245  sudo apt-get install svgalib-bin 
+ 1246  sudo apt-get install svgalib-bin
+ 1247  ls
+ 1248  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1249  sudo apt-get install -f
+ 1250  sudo apt-get install libsvga1
+ 1251  sudo apt-get install svgalib-bin 
+ 1252  sudo apt-get install -f
+ 1253  sudo dpkg -i svgalib-bin_1.4.3-33_i386.deb
+ 1254  sudo apt-get install libsvga1
+ 1255  sudo apt-get install -f
+ 1256  sudo apt-get install libsvga1
+ 1257  cd
+ 1258  sudo ./demo
+ 1259  sudo ./o
+ 1260  sudo ./d
+ 1261  cd Desktop
+ 1262  g++ 1.cpp -o demo  -lgraph
+ 1263  sudo ./d
+ 1264  sudo ./demo
+ 1265  g++ 1.cpp -o demo  -lgraph
+ 1266  sudo ./demo
+ 1267  cd Desktop 
+ 1268  ls
+ 1269  cd
+ 1270  cd Desktop
+ 1271  gcc 1.c -o demo  -lgraph
+ 1272  sudo ./demo
+ 1273  sudo add-apt-repository ppa:allegro/5.2
+ 1274  sudo apt-get install liballegro5-dev
+ 1275  sudo apt-get -f install liballegro5-dev
+ 1276  sudo apt-get update
+ 1277  sudo apt-get -f install liballegro5-dev
+ 1278  sudo apt-get update
+ 1279  sudo apt-get -f install liballegro5-dev
+ 1280  sudo apt-get -f install
+ 1281  sudo apt-get -f install liballegro5-dev
+ 1282  sudo ./demo
+ 1283  sudo apt install codeblocks
+ 1284  pkg-config --libs allegro-5
+ 1285  ls
+ 1286  gcc 1.c -lSDL2
+ 1287  sudo apt-get install libsdl2-dev
+ 1288  gcc 1.c -lSDL2
+ 1289  gcc test.c -lSDL2
+ 1290  cd
+ 1291  gcc test.c -lSDL2
+ 1292  gcc test.c -lSDL2 --lgraph
+ 1293  gcc test.c -lSDL2 -lgraph
+ 1294  gcc test.c -lSDL2 -lgraph -o d
+ 1295  ls
+ 1296  sudo ./o
+ 1297  sudo ./d
+ 1298  sudo apt-get install svgalib-bin libsvga1 libsvga1-dev
+ 1299  sudo apt-get install svgalib-bin
+ 1300  sudo apt-get install -y svgalib-bin
+ 1301  dosbox
+ 1302  pwd
+ 1303  cd
+ 1304  dosbox
+ 1305  sudo apt-get install dosbox
+ 1306  dosbox
+ 1307  pwd
+ 1308  cd
+ 1309  dosbox
+ 1310  top
+ 1311  cd tc/bin
+ 1312  dosbx
+ 1313  dosbox
+ 1314  exit
+ 1315  dosbox
+ 1316  dosboc
+ 1317  dosbox
+ 1318  exit
+ 1319  dosbox
+ 1320  exit
+ 1321  dosbox
+ 1322  dosbox
+ 1323  exit
+ 1324  dosbox
+ 1325  dosbox
+ 1326  sudo apt-get TeamViewer
+ 1327  wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+ 1328  sudo apt install ./teamviewer_amd64.deb
+ 1329  dosbox
+ 1330  exit
+ 1331  ls
+ 1332  ls -a 
+ 1333  ls
+ 1334  cd Desktop
+ 1335  ls
+ 1336  g++ 1.cpp -o d
+ 1337  sudo ./d
+ 1338  ./d
+ 1339  g++ 1.cpp -o 
+ 1340  dosbx
+ 1341  dosbox
+ 1342  ls -ah
+ 1343  man ls
+ 1344  ls -h
+ 1345  ls -a
+ 1346  ls -b
+ 1347  ls -p
+ 1348  ls -l
+ 1349  cd .
+ 1350  cd ..
+ 1351  ls -l
+ 1352  exit
+ 1353  cd ..
+ 1354  ls
+ 1355  sudo chmod 777 LENOVO_USB_HDD
+ 1356  exit
+ 1357  mkdir abcd
+ 1358  dosbox
+ 1359  exit
+ 1360  dosbox
+ 1361  exit
+ 1362  dosbox
+ 1363  exit
+ 1364  dosbox
+ 1365  exit
+ 1366  cd Desktop
+ 1367  ls
+ 1368  cat 1.cpp
+ 1369  cd
+ 1370  ls | grep .cpp
+ 1371  cp bmp_img_ext.cpp home/ganesh/Desktop
+ 1372  cp bmp_img_ext.cpp Desktop
+ 1373  vim
+ 1374  ls
+ 1375  cd Desktop
+ 1376  echo "https://hex-works.com/eng"
+ 1377  echo "https://hex-works.com/eng" >1.txt
+ 1378  ls
+ 1379  cat BMP 1.txt
+ 1380  cat BMP 1.txt >BMP1
+ 1381  rm BMP
+ 1382  mv BMP1 BMP
+ 1383  echo "https://hex-works.com/eng" >1.txt
+ 1384  cat BMP 1.txt >BMP1
+ 1385  rm BMP
+ 1386  mv BMP1 BMP
+ 1387  echo "https://www.rapidtables.com/web/color/RGB_Color.html" >1.txt
+ 1388  cat BMP 1.txt >BMP1
+ 1389  rm BMP
+ 1390  mv BMP1 BMP
+ 1391  cd desktop
+ 1392  c
+ 1393  cd Desktop
+ 1394  g++ bmp_img_ext.cpp  -out1
+ 1395  g++ bmp_img_ext.cpp  -o out1
+ 1396  ./out1
+ 1397  g++ bmp_img_ext.cpp  -o out1
+ 1398  ./out1
+ 1399  g++ bmp_img_ext.cpp  -o out1
+ 1400  ./out1
+ 1401  g++ bmp_img_ext.cpp  -o out1
+ 1402  ./out1
+ 1403  g++ bmp_img_ext.cpp  -o out1
+ 1404  ./out1
+ 1405  g++ bmp_img_ext.cpp  -o out1
+ 1406  ./out1\
+ 1407  g++ bmp_img_ext.cpp  -o out1
+ 1408  ./out1\
+ 1409  g++ bmp_img_ext.cpp  -o out1
+ 1410  ./out1
+ 1411  desktop
+ 1412  Deskop
+ 1413  cd Desktop
+ 1414  g++ bmp_img_ext.cpp -o abc
+ 1415  g++ bmp_img_ext.cpp  -out1
+ 1416  g++ bmp_img_ext.cpp  -o out1
+ 1417  ./out1
+ 1418  g++ bmp_img_ext.cpp  -o out1
+ 1419  ./out1
+ 1420  g++ bmp_img_ext.cpp  -o out1
+ 1421  ./out1
+ 1422  g++ bmp_img_ext.cpp  -o out1
+ 1423  ./out1
+ 1424  g++ bmp_img_ext.cpp  -o out1
+ 1425  ./out1
+ 1426  g++ bmp_img_ext.cpp  -o out1
+ 1427  ./out1
+ 1428  g++ bmp_img_ext.cpp  -o out1
+ 1429  ./out1
+ 1430  g++ bmp_img_ext.cpp  -o out1
+ 1431  ./out1
+ 1432  g++ bmp_img_ext.cpp  -o out1
+ 1433  ./out1
+ 1434  g++ bmp_img_ext.cpp  -o out1
+ 1435  ./out1
+ 1436  g++ bmp_img_ext.cpp  -o out1
+ 1437  ./out1
+ 1438  g++ bmp_img_ext.cpp  -o out1
+ 1439  ./out1
+ 1440  g++ bmp_img_ext.cpp  -o out1
+ 1441  ./out1
+ 1442  g++ bmp_img_ext.cpp  -o out1
+ 1443  ./out1
+ 1444  history
+ 1445  nc 10.42.0.1 1300
+ 1446  nc 10.42.0.1 -l  1300
+ 1447  nc 10.42.0.1 1300
+ 1448  cd Desktop
+ 1449  g++ bmp_img_ext.cpp -o jj
+ 1450  ./jj
+ 1451  g++ bmp_img_ext.cpp -o abcd
+ 1452  sudo ./abcd
+ 1453  g++ bmp_img_ext.cpp -o abcd
+ 1454  sudo ./abcd
+ 1455  g++ bmp_img_ext.cpp -o abcd
+ 1456  sudo ./abcd
+ 1457  g++ bmp_img_ext.cpp -o abcd
+ 1458  sudo ./abcd
+ 1459  g++ bmp_img_ext.cpp -o abcd
+ 1460  ./abcd
+ 1461  g++ bmp_img_ext.cpp -o abcd
+ 1462  ./abcd
+ 1463  g++ bmp_img_ext.cpp -o abcd
+ 1464  ./abcd
+ 1465  g++ bmp_img_ext.cpp -o abcd
+ 1466  ./abcd
+ 1467  g++ bmp_img_ext.cpp -o abcd
+ 1468  ./abcd
+ 1469  g++ bmp_img_ext.cpp -o abcd
+ 1470  ./abcd
+ 1471  g++ bmp_img_ext.cpp -o abcd
+ 1472  ./abcd
+ 1473  cd
+ 1474  nc 10.42.0.1 1300
+ 1475  nc 10.42.0.1 -l 1300
+ 1476  ifconfig
+ 1477  nc 10.42.0.1 -l 1300
+ 1478  nc 10.42.0.1  1300
+ 1479  nc 10.42.0.1  -l 1300
+ 1480  nc 10.42.0.1  1300
+ 1481  nc 10.42.0.1  -l 1300
+ 1482  nc 10.42.0.1  1300
+ 1483  nc 10.42.0.1  -l 1300
+ 1484  ifconfig
+ 1485  nc 10.42.0.1  -l 1300
+ 1486  ifconfig
+ 1487  nc 10.42.0.1  -l 1300
+ 1488  notepad
+ 1489  /usr/local/MATLAB/R2017a/bin/matlab
+ 1490  cd /usr/local/MATLAB/R2017a/bin
+ 1491  ls
+ 1492  cd ..
+ 1493  ls
+ 1494  cd .
+ 1495  cd ..
+ 1496  ls
+ 1497  cd R2017a
+ 1498  ls
+ 1499  cd etc
+ 1500  ls
+ 1501  cd glnxa64
+ 1502  ls
+ 1503  cd ..
+ 1504  ls
+ 1505  cd bin
+ 1506  ls
+ 1507  cd glnxa64
+ 1508  ls
+ 1509  ls | grep mat
+ 1510  ls | grep matlab
+ 1511  exit
+ 1512  bc
+ 1513  g++ bmp_img_ext.cpp  -o out1
+ 1514  ./out1
+ 1515  g++ bmp_img_ext.cpp  -o out1
+ 1516  ./out1
+ 1517  g++ bmp_img_ext.cpp  -o out1
+ 1518  ./out1
+ 1519  g++ bmp_img_ext.cpp  -o out1
+ 1520  ./out1
+ 1521  g++ bmp_img_ext.cpp  -o out1
+ 1522  ./out1
+ 1523  g++ bmp_img_ext.cpp  -o out1
+ 1524  ./out1
+ 1525  g++ bmp_img_ext.cpp  -o out1
+ 1526  ./out1
+ 1527  g++ bmp_img_ext.cpp  -o out1
+ 1528  ./out1
+ 1529  g++ bmp_img_ext.cpp  -o out1
+ 1530  ./out1
+ 1531  g++ bmp_img_ext.cpp  -o out1
+ 1532  ./out1
+ 1533  g++ bmp_img_ext.cpp  -o out1
+ 1534  ./out1
+ 1535  g++ bmp_img_ext.cpp  -o out1
+ 1536  ./out1
+ 1537  g++ bmp_img_ext.cpp  -o out1
+ 1538  ./out1
+ 1539  g++ bmp_img_ext.cpp  -o out1
+ 1540  ./out1
+ 1541  g++ bmp_img_ext.cpp  -o out1
+ 1542  ./out1
+ 1543  cd
+ 1544  matlab
+ 1545  cd matlab
+ 1546  ls
+ 1547  history
+ 1548  history | grep ma
+ 1549  matlab
+ 1550  cd /usr
+ 1551  cd bin
+ 1552  ls
+ 1553  ls | grep matlab
+ 1554  cd ..
+ 1555  cd etc
+ 1556  ls
+ 1557  cd locale
+ 1558  ls
+ 1559  cd da
+ 1560  ls
+ 1561  cd ..
+ 1562  cd share
+ 1563  ls
+ 1564  ls | grep matlab
+ 1565  cd ..
+ 1566  tree | grep matlab
+ 1567  cd Desktop
+ 1568  ls
+ 1569  cat bmp_img_ext.cpp
+ 1570  vim bmp_img_ext.cpp
+ 1571  bmp_img_ext.cpp
+ 1572  gedit
+ 1573  sudo apt-get install vim
+ 1574  vim bmp_img_ext.cpp
+ 1575  cat bmp_img_ext.cpp
+ 1576  vim bmp_img_ext.cpp
+ 1577  cd Desktop
+ 1578  bmp
+ 1579  cd bmp
+ 1580  g++ bmp_header.h -o 12
+ 1581  cd Desktop
+ 1582  cdbmp
+ 1583  cd bmp
+ 1584  g++ bmp_header.c -0 12
+ 1585  g++ bmp_header.c -o 12
+ 1586  g++ bmp_header.c bmp_header.h -o 12
+ 1587  g++ bmp_header.c -o 12
+ 1588  g++ bmp_header.h -o 12
+ 1589  g++ bmp_header.c -o 123
+ 1590  g++ bmp_header.c 12 -o 123
+ 1591  ./12
+ 1592  sudo ./12
+ 1593  g++ bmp_img_ext.c  -o out1
+ 1594  g++ bmp_header.c  -o 00
+ 1595  ./00
+ 1596  g++ bmp_header.c  -o 00
+ 1597  ./00
+ 1598  g++ test.c  -o 00
+ 1599  g++ bmp_header.c  -o 00
+ 1600  cd Desktop
+ 1601  cd bmp
+ 1602  g++ bmp_header.c  -o 00
+ 1603  g++ test.c bmp_header.c  -o 00
+ 1604  ./00
+ 1605  g++ test.c bmp_header.c  -o 00
+ 1606  ./00
+ 1607  g++ test.c bmp_header.c  -o 00
+ 1608  ./00
+ 1609  g++ test.c bmp_header.c  -o 00
+ 1610  ./00
+ 1611  g++ test.c bmp_header.c bmp_header.h -o 00
+ 1612  cd Desktop
+ 1613  cd bmp
+ 1614  g++ test.c bmp_header.c bmp_header.h -o 00
+ 1615  g++ test.c bmp_header.c  -o 00
+ 1616  ./00
+ 1617  cd
+ 1618  cd Desktop
+ 1619  ls
+ 1620  g++ abcd.cpp test1.cpp -o out12
+ 1621  ./out12
+ 1622  g++ test.c bmp_header.c  -o 00
+ 1623  cd bmp
+ 1624  g++ test.c bmp_header.c  -o 00
+ 1625  g++ test.c bmp_header.c  -o as
+ 1626  ./as
+ 1627  ls
+ 1628  g++ test.c bmp_header.c  -o as
+ 1629  ./as
+ 1630  g++ test.c bmp_header.c  -o 00
+ 1631  ./00
+ 1632  cd Desktop
+ 1633  ls
+ 1634  cd bmp
+ 1635  ls
+ 1636  g++ test.c bmp_header.c -o out
+ 1637  gcc test.c bmp_header.c -o out
+ 1638  g++ test.c bmp_header.c -o out
+ 1639  g++ test.cpp bmp_header.cpp -o out
+ 1640  ls
+ 1641  ./out
+ 1642  g++ test.cpp bmp_header.cpp -o out
+ 1643  ./out
+ 1644  g++ test.cpp bmp_header.cpp -o out
+ 1645  ./out
+ 1646  g++ test.cpp bmp_header.cpp -o out
+ 1647  ./out
+ 1648  g++ test.cpp bmp_header.cpp -o out
+ 1649  ./out
+ 1650  ./out >1.txt
+ 1651  g++ test.cpp bmp_header.cpp -o out
+ 1652  ./out >1.txt
+ 1653  g++ test.cpp bmp_header.cpp -o out
+ 1654  ./out >1.txt
+ 1655  g++ test.cpp bmp_header.cpp -o out
+ 1656  ./out >1.txt
+ 1657  g++ test.cpp bmp_header.cpp -o out
+ 1658  ./out >1.txt
+ 1659  g++ test.cpp bmp_header.cpp -o out
+ 1660  ./out >1.txt
+ 1661  g++ test.cpp bmp_header.cpp -o out
+ 1662  ./out >1.txt
+ 1663  g++ test.cpp bmp_header.cpp -o out
+ 1664  ./out >1.txt
+ 1665  cd Desktop
+ 1666  ls
+ 1667  g++ 2.cpp -o out1
+ 1668  ./out1
+ 1669  g++ 2.cpp -o out1
+ 1670  ./out1
+ 1671  g++ 2.cpp -o out1
+ 1672  ./out1
+ 1673  g++ 2.cpp -o out1
+ 1674  ./out1
+ 1675  g++ 2.cpp -o out1
+ 1676  ./out1
+ 1677  g++ 2.cpp -o out1
+ 1678  ./out1
+ 1679  g++ 2.cpp -o out1
+ 1680  ./out1
+ 1681  g++ 2.cpp -o out1
+ 1682  ./out1
+ 1683  g++ 2.cpp -o out1
+ 1684  ./out1
+ 1685  g++ 2.cpp -o out1
+ 1686  ./out1
+ 1687  g++ 2.cpp -o out1
+ 1688  ./out1
+ 1689  g++ 2.cpp -o out1
+ 1690  ./out1
+ 1691  g++ 2.cpp -o out1
+ 1692  ./out1
+ 1693  g++ 2.cpp -o out1
+ 1694  ./out1
+ 1695  g++ 2.cpp -o out1
+ 1696  ./out1
+ 1697  g++ 2.cpp -o out1
+ 1698  ./out1
+ 1699  g++ 2.cpp -o out1
+ 1700  ./out1
+ 1701  g++ 2.cpp -o out1
+ 1702  ./out1
+ 1703  g++ 2.cpp -o out1
+ 1704  ./out1
+ 1705  g++ 2.cpp -o out1
+ 1706  ./out1
+ 1707  g++ 2.cpp -o out1
+ 1708  ./out1
+ 1709  g++ 2.cpp -o out1
+ 1710  ./out1
+ 1711  g++ 2.cpp -o out1
+ 1712  ./out1
+ 1713  g++ 2.cpp -o out1
+ 1714  ./out1
+ 1715  g++ 2.cpp -o out1
+ 1716  ./out1
+ 1717  g++ 2.cpp -o out1
+ 1718  ./out1
+ 1719  g++ 2.cpp -o out1
+ 1720  ./out1
+ 1721  g++ 2.cpp -o out1
+ 1722  ./out1
+ 1723  g++ 2.cpp -o out1
+ 1724  ./out1
+ 1725  g++ 2.cpp -o out1
+ 1726  ./out1
+ 1727  g++ 2.cpp -o out1
+ 1728  ./out1
+ 1729  g++ 2.cpp -o out1
+ 1730  ./out1
+ 1731  g++ 2.cpp -o out1
+ 1732  ./out1
+ 1733  bcd
+ 1734  bc
+ 1735  cd Desktop/bmp
+ 1736  g++ bmp_header.cpp -o 00
+ 1737  g++ bmp_header.cpp test.cpp -o 00
+ 1738  ./00
+ 1739  ./00 >1.txt
+ 1740  g++ bmp_header.cpp test.cpp -o 00
+ 1741  ./00 >1.txt
+ 1742  sudo apt install flameshot
+ 1743  sudo snap install flameshot-app
+ 1744  "sudo apt-get install pinta "
+ 1745  sudo apt-get install pinta
+ 1746  echo 1
+ 1747  exit
+ 1748  echo "hello"
+ 1749  echo "suno ya task hona ka bad bol na. you continue your work"
+ 1750  echo ok
+ 1751  echo " just 1 sec"
+ 1752  echo "care on "
+ 1753  evho " ok"
+ 1754  sudo apt-get install pinta 
+ 1755  echo after it is done
+ 1756  echo "sudo apt-get install pinta "
+ 1757  echo do this 
+ 1758  echo ok
+ 1759  g++ bmp_header.cpp test.cpp -o 00
+ 1760  cd Desktop/bmp
+ 1761  g++ bmp_header.cpp test.cpp -o 00
+ 1762  ./00 >1.txt
+ 1763  g++ bmp_header.cpp test.cpp -o 00
+ 1764  ./00 >1.txt
+ 1765  g++ bmp_header.cpp test.cpp -o 00
+ 1766  ./00 >1.txt
+ 1767  g++ bmp_header.cpp test.cpp -o 00
+ 1768  ./00
+ 1769  g++ bmp_header.cpp test.cpp -o 00
+ 1770  cd Desktop/bmp
+ 1771  g++ bmp_header.cpp test.cpp -o 00
+ 1772  ./00
+ 1773  g++ bmp_header.cpp test.cpp -o 00
+ 1774  ./00
+ 1775  ./00 >.txt
+ 1776  ./00 >1.txt
+ 1777  g++ bmp_header.cpp test.cpp -o 00
+ 1778  ./00 >1.txt
+ 1779  g++ bmp_header.cpp test.cpp -o 00
+ 1780  ./00 >1.txt
+ 1781  g++ bmp_header.cpp test.cpp -o 00
+ 1782  ./00 >2.txt
+ 1783  g++ bmp_header.cpp test.cpp -o 00
+ 1784  ./00 >1.txt
+ 1785  g++ bmp_header.cpp test.cpp -o 00
+ 1786  ./00 >1.txt
+ 1787  g++ bmp_header.cpp test.cpp -o 00
+ 1788  ./00 >2.txt
+ 1789  g++ bmp_header.cpp test.cpp -o 00
+ 1790  ./00 >3.txt
+ 1791  g++ bmp_header.cpp test.cpp -o 00
+ 1792  ./00 >4.txt
+ 1793  BC
+ 1794  bc
+ 1795  g++ bmp_header.cpp test.cpp -o 00
+ 1796  ./00 >B.txt
+ 1797  g++ bmp_header.cpp test.cpp -o 00
+ 1798  /00 >G.txt
+ 1799  ./00 >G.txt
+ 1800  g++ bmp_header.cpp test.cpp -o 00
+ 1801  ./00 >RFlower.txt
+ 1802  g++ bmp_header.cpp test.cpp -o 00
+ 1803  ./00 >RFlower.txt
+ 1804  g++ bmp_header.cpp test.cpp -o 00
+ 1805  ./00 >RFlower.txt
+ 1806  g++ bmp_header.cpp test.cpp -o 00
+ 1807  ./00 >RFlower.txt
+ 1808  g++ bmp_header.cpp test.cpp -o 00
+ 1809  ./00 >RFlower.txt
+ 1810  g++ bmp_header.cpp test.cpp -o 00
+ 1811  ./00 >RFlower.txt
+ 1812  g++ bmp_header.cpp test.cpp -o 00
+ 1813  ./00 >RFlower.txt
+ 1814  g++ bmp_header.cpp test.cpp -o 00
+ 1815  ./00 >RFlower.txt
+ 1816  g++ bmp_header.cpp test.cpp -o 00
+ 1817  ./00 >RFlower.txt
+ 1818  g++ bmp_header.cpp test.cpp -o 00
+ 1819  ./00 >RFlower.txt
+ 1820  g++ bmp_header.cpp test.cpp -o 00
+ 1821  ./00 >RFlower.txt
+ 1822  g++ bmp_header.cpp test.cpp -o 00
+ 1823  ./00 >RFlower.txt
+ 1824  g++ bmp_header.cpp test.cpp -o 00
+ 1825  ./00
+ 1826  g++ bmp_header.cpp test.cpp -o 00
+ 1827  ./00
+ 1828  bc
+ 1829  g++ bmp_header.cpp test.cpp -o 00
+ 1830  ./00
+ 1831  g++ bmp_header.cpp test.cpp -o 00
+ 1832  ./00
+ 1833  g++ bmp_header.cpp test.cpp -o 00
+ 1834  ./00
+ 1835  g++ bmp_header.cpp test.cpp -o 00
+ 1836  ./00
+ 1837  g++ bmp_header.cpp test.cpp -o 00
+ 1838  ./00
+ 1839  g++ bmp_header.cpp test.cpp -o 00
+ 1840  ./00
+ 1841  g++ bmp_header.cpp test.cpp -o 00
+ 1842  ./00
+ 1843  g++ bmp_header.cpp test.cpp -o 00
+ 1844  ./00
+ 1845  g++ bmp_header.cpp test.cpp -o 00
+ 1846  ./00
+ 1847  g++ bmp_header.cpp test.cpp -o 00
+ 1848  ./00
+ 1849  g++ bmp_header.cpp test.cpp -o 00
+ 1850  ./00
+ 1851  g++ bmp_header.cpp test.cpp -o 00
+ 1852  ./00
+ 1853  g++ bmp_header.cpp test.cpp -o 00
+ 1854  ./00
+ 1855  g++ bmp_header.cpp test.cpp -o 00
+ 1856  ./00
+ 1857  g++ bmp_header.cpp test.cpp -o 00
+ 1858  ./00
+ 1859  g++ bmp_header.cpp test.cpp -o 00
+ 1860  ./00
+ 1861  g++ bmp_header.cpp test.cpp -o 00
+ 1862  ./00
+ 1863  g++ bmp_header.cpp test.cpp -o 00
+ 1864  ./00
+ 1865  g++ bmp_header.cpp test.cpp -o 00
+ 1866  ./00
+ 1867  g++ bmp_header.cpp test.cpp -o 00
+ 1868  ./00
+ 1869  g++ bmp_header.cpp test.cpp -o 00
+ 1870  ./00
+ 1871  g++ bmp_header.cpp test.cpp -o 00
+ 1872  ./00
+ 1873  g++ bmp_header.cpp test.cpp -o 00
+ 1874  ./00
+ 1875  g++ bmp_header.cpp test.cpp -o 00
+ 1876  ./00
+ 1877  g++ bmp_header.cpp test.cpp -o 00
+ 1878  ./00
+ 1879  g++ bmp_header.cpp test.cpp -o 00
+ 1880  ./00
+ 1881  g++ bmp_header.cpp test.cpp -o 00
+ 1882  ./00
+ 1883  g++ bmp_header.cpp test.cpp -o 00
+ 1884  ./00
+ 1885  g++ bmp_header.cpp test.cpp -o 00
+ 1886  ./00
+ 1887  g++ bmp_header.cpp test.cpp -o 00
+ 1888  ./00
+ 1889  g++ bmp_header.cpp test.cpp -o 00
+ 1890  ./00
+ 1891  g++ bmp_header.cpp test.cpp -o 00
+ 1892  ./00
+ 1893  g++ bmp_header.cpp test.cpp -o 00
+ 1894  ./00
+ 1895  g++ bmp_header.cpp test.cpp -o 00
+ 1896  ./00
+ 1897  which ls
+ 1898  echo $PATH
+ 1899  gedit
+ 1900  python
+ 1901  which python
+ 1902  which ls
+ 1903  which https://www.google.com/search?client=ubuntu&channel=fs&q=from+command+in+python&ie=utf-8&oe=utf-8
+ 1904  which 
+ 1905  which moviepy
+ 1906  gedit
+ 1907  sudo apt get install moviepy
+ 1908  sudo apt- get install moviepy
+ 1909  sudo apt - get install moviepy
+ 1910  sudo apt -get install moviepy
+ 1911  sudo apt-get install moviepy
+ 1912  /etc/apt/sources.list
+ 1913  sudo /etc/apt/sources.list
+ 1914  sudo gedit /etc/apt/sources.list
+ 1915  sudo pip install moviepy
+ 1916  sudo pip install --upgrade pip
+ 1917  python
+ 1918  cd Py_Exp
+ 1919  ./1.py
+ 1920  ls -ahl
+ 1921  sudo chmod 700
+ 1922  sudo chmod 700 1.py
+ 1923  ls
+ 1924  ls -ahl
+ 1925  man ls
+ 1926  ls -al
+ 1927  ./1.py
+ 1928  python 1.py
+ 1929  ./1.py
+ 1930  python 1.py
+ 1931  ./1.py
+ 1932  python 1.py
+ 1933  ./1.py
+ 1934  python3
+ 1935  pyhton
+ 1936  python
+ 1937  gparted
+ 1938  sudo gparted
+ 1939  which gparted
+ 1940  sudo /usr/sbin/gparted
+ 1941  ls /usr/sbin/gparted -ahl
+ 1942  root
+ 1943  top
+ 1944  ls /usr/sbin/gparted -ahl
+ 1945  exit
+ 1946  nc 192.168.0.105
+ 1947  12
+ 1948  nc 192.168.0.105 -p 112
+ 1949  nc -l -vv  192.168.0.105 -p 112
+ 1950  nc -l -vv -p 112
+ 1951  sudo nc -l -vv -p 112
+ 1952  ipconfig
+ 1953  ifconfig
+ 1954  sudo nc -l -vv -p 112
+ 1955  scp Py_Exp/1.txt ganesh@192.168.0.105:/home/ganesh/Desktop
+ 1956  ifconfig
+ 1957  scp /home/ganesh/Downloads/ubuntu-16.04.6-desktop-amd64.iso ganesh@192.168.0.105:/home/ganesh/Desktop
+ 1958  pwd
+ 1959  ls
+ 1960  python tkinter2.py
+ 1961  python
+ 1962  python3
+ 1963  python
+ 1964  python
+ 1965  cd Desktop
+ 1966  mkdir Live_CD
+ 1967  cd Live_CD
+ 1968  echo https://unetbootin.github.io/
+ 1969  echo https://unetbootin.github.io/ >1.txt
+ 1970  which ls
+ 1971  cd /dev
+ 1972  ls
+ 1973  cd /
+ 1974  ls
+ 1975  cd
+ 1976  traceroute https://www.geeksforgeeks.org
+ 1977  traceroute 'www.geeksforgeeks.org'
+ 1978  ping 202.83.26.89
+ 1979  sudo ssh 192.68.0.165
+ 1980  sudo ssh 192.168.0.165
+ 1981  sudo ssh ganesh@192.168.0.165
+ 1982  sudo ssh ganesh@192.168.0.105
+ 1983  ifconfig
+ 1984  cd
+ 1985  ssh pi@10.42.0.31
+ 1986  client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+ 1987  vim gedit
+ 1988  ifconfig
+ 1989  nc 1234
+ 1990  nc 192.168.0.105 1234
+ 1991  nc-u  192.168.0.105 1234
+ 1992  nc -u  192.168.0.105 1234
+ 1993  netcat -p 1234
+ 1994  netcat -p 192.168.0.105 1234
+ 1995  netcat 192.168.0.105 -p  1234
+ 1996  python
+ 1997  echo client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+ 1998  echo "client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"
+ 1999  pythov
+ 2000  python
+ 2001  pip3 install qt4
+ 2002  sudo apt install python3-pip
+ 2003  pip3 install qt4
+ 2004  sudo apt install python3-pip
+ 2005  sudo apt-get install -f
+ 2006  pip3 install qt4
+ 2007  sudo apt install python3-pip
+ 2008  pip3 install qt4
+ 2009  pip3 install Qt
+ 2010  sudo apt-get install python-qt4
+ 2011  sudo apt-get install python3-qt4
+ 2012  sudo apt-get install python3-pyqt5
+ 2013  python3
+ 2014  sudo apt-get install  qt5-designer
+ 2015  sudo apt-get install qttools5-dev-tools
+ 2016  sudo qttools5-dev-tools
+ 2017  sudo apt-get install qtcreator
+ 2018  sudo apt-get install -f
+ 2019  sudo apt-get install qtcreator
+ 2020  sudo apt-get update
+ 2021  sudo apt-get install qtcreator
+ 2022  qtcreator
+ 2023  history
+ 2024  history >qtpy.txt
